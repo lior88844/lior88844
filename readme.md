@@ -1,4 +1,5 @@
-Hello
+<h2> 🙋🏻‍♀️ Hi! <h2>
+ I'm a full stack/frontend developer looking for my first opportunity in the industry. Check out my GitHub page for examples of my work, including web apps and code snippets. I have experience with HTML, CSS, JavaScript, React, Node.js, and I'm eager to learn more. Let's collaborate and create something great!
  <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
