@@ -4,6 +4,6 @@
 <img src="https://skillicons.dev/icons?i=js,css,html,sass,react,redux,vue,angular" alt="js,css,html,sass,react,redux,vue,angular">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql" alt="nodejs,express,mongodb,sql">
 <h2> 💬 Don't be a stranger! </h2>
-<a href="https://www.linkedin.com/in/liordoron"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lior Doron | LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/lior-doron-2547b514b"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lior Doron | LinkedIn" /></a>
 
 <a href="mailto:dearliordoron@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Lior Doron | Email"/></a>
